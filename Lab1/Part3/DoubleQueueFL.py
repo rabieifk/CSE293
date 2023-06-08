@@ -5,3 +5,6 @@ from queueFL import QueueFL
 class DoubleQueueFL ( Component):
 
   def construct( s ):
+
+    
+    
