@@ -1,11 +1,11 @@
 
 from pymtl3 import *
 
-class Counternbits( Component ):
+class Counter8bits( Component ):
 # Constructor
 
   def construct( s ):
-   s.out = OutPort ( Bits4 )
+   s.out = OutPort ( Bits8 )
   
   
   
